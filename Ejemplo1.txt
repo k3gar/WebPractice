@@ -1,3 +1,5 @@
-Esto es un archivo de prueba
+Esto es un archivo original
 
 Es un archivo que está practicamente en blanco
+
+Este archivo ya no está en blanco
