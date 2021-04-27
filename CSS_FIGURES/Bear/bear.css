@@ -1,0 +1,105 @@
+.div-1{ /* Cabeza */
+    background: #A0522D;
+    height: 120px;
+    width: 120px;
+    padding: 20px;
+    border: 9px solid #8B4513;
+    margin: 60px;
+    margin-left: 300px;
+    margin-top: 200px;
+    shape-margin: 10px;
+    border-radius: 90px;
+    border-left-width: 4px;
+    border-bottom-width: 4px;
+  }
+
+  .div-2{ /* Oreja Izquierda */
+      background: #A0522D;
+      border: 5px solid #8B4513;
+      height: 55px;
+      width: 55px;
+      border-radius: 70px;
+      margin-left: 290px;
+      margin-top: -240px;
+      border-left-width: 5px;
+      border-bottom-width: 0px;
+      border-right-width: 0px;
+  }
+
+  .div-3{ /* Oreja Derecha */
+      background: #A0522D;
+      border: 5px solid #8B4513;
+      height: 55px;
+      width: 55px;
+      border-radius: 70px;
+      margin-left: 411px;
+      margin-top: -65px;
+      border-bottom: 0px;
+      border-left: 0px;
+      border-right-width: 7px;
+  }
+
+  .div-5{ /* Ojo Izquierdo */
+    background: white;
+    border: 5px solid #8B4513;
+    width: 15px;
+    height: 30px;
+    margin-left: 350px;
+    margin-top: -74px;
+    border-radius: 10px;  
+}
+
+.div-6{ /* Ojo Derecho */
+    background: white;
+    border: 5px solid #8B4513;
+    width: 15px;
+    height: 30px;
+    margin-left: 385px;
+    margin-top: -40px;
+    border-radius: 10px;
+}
+
+.div-4{ /* Nariz */
+    background: #A0522D;
+    border: 5px solid #8B4513;
+    width: 40px;
+    height: 25px;
+    margin-left: 355px;
+    margin-top: 35px;
+    border-radius: 30px;
+    border-top-left-radius: 50px ;
+    border-top-right-radius: 50px;
+    border-bottom-width: 3px;
+}
+
+.div-7{ /* iris izquierda */
+    background: rgb(48, 47, 47);
+    border: 1px solid black;
+    width: 12px;
+    height: 15px;
+    border-radius: 8px;
+    margin-left: 355px;
+    margin-top: -28px;
+}
+.div-8{ /* iris derecha */
+    background: rgb(48, 47, 47);
+    border: 1px solid black;
+    width: 12px;
+    height: 15px;
+    border-radius: 8px;
+    margin-left: 390.09px;
+    margin-top: -17px;
+}
+
+/* .div-9{
+    background: #8B4513;
+    border: 5px solid #8B4513;
+    width: 25px;
+    height: 15px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 29px;
+    border-bottom-right-radius: 30px;
+    margin-left: 361px;
+
+} */
